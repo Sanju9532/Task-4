@@ -1,6 +1,6 @@
 Introduction: 
-          Import the dataset, handle missing values, split the data into training and testing sets, standardize the input features, and fit a Logistic Regression model. 
-Evaluate the model using a confusion matrix, precision, recall, and ROC-AUC, and finally, tune the classification threshold.
+          Importing the dataset, handle missing values, split the data into training and testing sets, standardize the input features, and fiting a Logistic Regression model. 
+Evaluating the model using a confusion matrix, precision, recall, and ROC-AUC, and finally, tuning the classification threshold.
 
 Handling Missing Values: 
         There are a total of 33 columns in the dataset. The unnamed column contains no data and consists entirely of null values, so removing that column. 
